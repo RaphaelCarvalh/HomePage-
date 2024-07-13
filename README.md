@@ -1,6 +1,6 @@
 # [Modelo de Home Page Angular](https://raphaelcarvalh.github.io/HomePage-/#/home/)
 
-![Angular HomePAGE](https://cdn.discordapp.com/attachments/1177172733554065428/1252338611442155572/Homepageart.jpg?ex=6671dab8&is=66708938&hm=08954bdd01ea1ebe970cf9c98d9d57984a01369b575d78ef3d24390134e48a5f&)
+![Angular HomePAGE](https://lh3.googleusercontent.com/d/1HK10cL4sV6G83GvUajV2BBG4zBiL4B_O)
 
 Todos os componentes são totalmente responsivos e ficam ótimos em todos os tamanhos de tela. Transições, sombras, cores, tudo lembra o fluxo que você teria com pedaços de papel.
 
